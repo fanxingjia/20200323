@@ -19,7 +19,7 @@
   "homepage": "https://github.com/fanxingjia/20200323#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.11.1",
     "zepto": "^1.2.0"
   }
